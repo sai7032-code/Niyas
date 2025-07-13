@@ -193,11 +193,6 @@ export default function App() {
         ))}
         <div data-aos="fade-up" className="bg-gradient-to-br from-purple-100 via-white to-indigo-100 rounded-xl shadow p-6 mb-6 hover:shadow-2xl transition">
           <h3 className="text-lg font-semibold">✅ C# .NET Course – Udemy</h3>
-          <ul className="list-disc pl-6 text-gray-700 space-y-2 mt-2">
-            <li>Completed C# and .NET development from fundamentals to intermediate.</li>
-            <li>Built Windows Forms, Console Apps using .NET Framework/Core.</li>
-            <li>Practiced OOP, file I/O, error handling, LINQ, async programming.</li>
-            <li>Learned Visual Studio, GitHub, deployment workflows.</li>
           </ul>
         </div>
       </section>
