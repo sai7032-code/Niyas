@@ -192,7 +192,7 @@ export default function App() {
           </div>
         ))}
         <div data-aos="fade-up" className="bg-gradient-to-br from-purple-100 via-white to-indigo-100 rounded-xl shadow p-6 mb-6 hover:shadow-2xl transition">
-          <h3 className="text-lg font-semibold">✅ C# .NET Course – Udemy</h3>
+          <h3 className="text-lg font-semibold">C# .NET Course – Udemy</h3>
           </ul>
         </div>
       </section>
